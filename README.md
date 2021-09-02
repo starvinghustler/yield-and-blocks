@@ -361,9 +361,7 @@ parameter placeholder, `|name|`, to set a variable, `name`, equal to whatever
 value is `yield`ed into the block at each step of the iteration. That block also
 contained code to execute with each `yield`ed element in turn.
 
-You can read more about the `yield` keyword and blocks in Ruby from the resources below:
+## Resources
 
-- [All About Ruby](http://allaboutruby.wordpress.com/)
-- [Ruby Blocks](http://allaboutruby.wordpress.com/2006/01/20/ruby-blocks-101/)
-- [Mix&Go](https://mixandgo.com/) 
-- [Mastering-ruby-blocks-in-less-than-5-minutes](https://mixandgo.com/learn/mastering-ruby-blocks-in-less-than-5-minutes)
+- [All About Ruby: Ruby Blocks](http://allaboutruby.wordpress.com/2006/01/20/ruby-blocks-101/)
+- [Mix&Go: Mastering Ruby Blocks in Less Than 5 Minutes](https://mixandgo.com/learn/ruby-blocks)
